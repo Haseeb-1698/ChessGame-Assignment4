@@ -35,9 +35,9 @@ Want to view the report in PDF format?
 
 ### 🛠️ Other Files
 
-- 🐍 **[Conversion Script](convert_md_to_pdf.py)**: Python script to convert the markdown report to PDF.
+
 - 📓 **[Jupyter Notebook](Asg04-i221698.ipynb)**: Code implementation of the chess game.
-- 📦 **[Zip Submission](i221698_MuhammadHaseeb_BCY-A.zip)**: Zipped submission file.
+
 
 ---
 
